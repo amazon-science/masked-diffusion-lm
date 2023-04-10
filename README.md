@@ -1,7 +1,7 @@
 # A Cheaper and Better Diffusion Language Model with Soft-Masked Noise
 
 
-This is the official implementation of the A Cheaper and Better Diffusion Language Model with Soft-Masked Noise. We are working on the repo.
+This is the official implementation of the paper: A Cheaper and Better Diffusion Language Model with Soft-Masked Noise.
 
 -----------------------------------------------------
 ## Usage
